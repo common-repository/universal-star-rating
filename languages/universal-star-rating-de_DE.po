@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Universal Star Rating\n"
+"POT-Creation-Date: 2018-04-21 18:50+0200\n"
+"PO-Revision-Date: 2018-04-21 18:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/functions/func.insertMultiRating.php:118
+msgid "Average"
+msgstr "Durchschnitt"
+
+#: includes/functions/func.printInfoMessage.php:19
+msgid "Success!"
+msgstr "Erfolg!"
+
+#: includes/templates/settings.content.description.php:20
+#, php-format
+msgid ""
+"Wordpress supports so-called %1$s. They have been introduced for creating "
+"macros to be used in a post's content. See %2$s for more details."
+msgstr ""
+"Wordpress unterstützt sogenannte %1$s. Sie wurden eingeführt, um damit "
+"Makros zu erstellen, die in Beiträgen genutzt werden sollen. Siehe %2$s für "
+"mehr Details."
+
+#: includes/templates/settings.content.description.php:25
+#, php-format
+msgid ""
+"%1$s provides 2 shortcodes to give the author the opportunity to add ratings "
+"for data, products and services with the aid of a classic star rating system."
+msgstr ""
+"%1$s bietet dem Autor die Möglichkeit, mit Hilfe von 2 Shortcodes Daten, "
+"Produkte und Dienstleistungen über ein klassisches Sternebewertungssystem zu "
+"bewerten."
+
+#: includes/templates/settings.content.description.php:30
+#, php-format
+msgid ""
+"To insert a single rating in a post, you only need to enter %1$s. In this "
+"example 5 is the rating or amount of stars."
+msgstr ""
+"Um eine einzelne Bewertung in einem Beitrag einzufügen, musst du nur %1$s "
+"eingeben. Bei diesem Beispiel ist 5 die Bewertung bzw. die Anzahl der Sterne."
+
+#: includes/templates/settings.content.description.php:35
+#, php-format
+msgid ""
+"To insert a tabular list of reviews in a post, you only need to enter %1$s. "
+"The so-called key/value pairs combine criterias and ratings with each other. "
+"Your list should consist of more than one key/value pair."
+msgstr ""
+"Um eine tabellarische Liste von Bewertungen in einem Beitrag einzufügen, "
+"musst du nur %1$s eingeben. Die sogenannten Schlüssel-Wert-Paare kombinieren "
+"Kriterien und Bewertungen miteinander. Deine Liste sollte aus mehr als einem "
+"Schlüssel-Wert-Paar bestehen."
+
+#: includes/templates/settings.content.description.php:38
+msgid "Attributes"
+msgstr "Parameter"
+
+#: includes/templates/settings.content.description.php:40
+msgid ""
+"Both shortcodes can be used with additional attributes to override the "
+"default settings. This only affects the respective rating."
+msgstr ""
+"Beide Shortcodes können mit zusätzlichen Parametern verwendet werden, um die "
+"Standardeinstellungen zu überschreiben. Dies wirkt sich nur auf die "
+"jeweilige Bewertung aus."
+
+#: includes/templates/settings.content.description.php:43
+msgid "Attribute"
+msgstr "Parameter"
+
+#: includes/templates/settings.content.description.php:44
+#: includes/templates/settings.headline.php:26
+msgid "Description"
+msgstr "Beschreibung"
+
+#: includes/templates/settings.content.description.php:45
+msgid "Single Rating"
+msgstr "Single-Rating"
+
+#: includes/templates/settings.content.description.php:46
+msgid "Multi Rating"
+msgstr "Multi-Rating"
+
+#: includes/templates/settings.content.description.php:47
+#: includes/templates/settings.content.preview.php:20
+msgid "Example"
+msgstr "Beispiel"
+
+#: includes/templates/settings.content.description.php:51
+msgid ""
+"Overrides the setting for the used image (make sure that the image name is "
+"correct!)"
+msgstr ""
+"Überschreibt die Einstellung für das verwendete Bild (vergewissere dich, "
+"dass der Bildname korrekt ist!)"
+
+#: includes/templates/settings.content.description.php:59
+msgid "Overrides the setting for the max. rating"
+msgstr "Überschreibt die Einstellung für die max. Bewertung"
+
+#: includes/templates/settings.content.description.php:67
+msgid "Overrides the setting for the image size (in pixel)"
+msgstr "Überschreibt die Einstellung für die Bildgröße (in Pixel)"
+
+#: includes/templates/settings.content.description.php:75
+msgid ""
+"Overrides the setting for text based output (can be &quot;true&quot; or "
+"&quot;false&quot;)"
+msgstr ""
+"Überschreibt die Einstellung für textbasierte Ausgabe (kann &quot;true&quot; "
+"oder &quot;false&quot; sein)"
+
+#: includes/templates/settings.content.description.php:83
+msgid ""
+"Overrides the setting for text output as tooltip (can be &quot;true&quot; or "
+"&quot;false&quot;). Text output must be activated."
+msgstr ""
+"Überschreibt die Einstellung für die Textausgabe als Tooltip (kann &quot;"
+"true&quot; oder &quot;false&quot; sein). Die Textausgabe muss aktiviert sein."
+
+#: includes/templates/settings.content.description.php:91
+msgid "Adds custom text to the text output. Text output must be activated."
+msgstr ""
+"Fügt der Textausgabe benutzerdefinierten Text hinzu. Die Textausgabe muss "
+"aktiviert sein."
+
+#: includes/templates/settings.content.description.php:99
+msgid ""
+"Overrides the setting to calculate average for multi ratings (can be &quot;"
+"true&quot; or &quot;false&quot;)"
+msgstr ""
+"Überschreibt die Einstellung, um den Durchschnitt für mehrere Bewertungen zu "
+"berechnen (kann &quot;true&quot; oder &quot;false&quot; sein)"
+
+#: includes/templates/settings.content.preview.php:21
+msgid "Result"
+msgstr "Ergebnis"
+
+#: includes/templates/settings.content.settings.php:22
+#, php-format
+msgid ""
+"These settings can change the behavior and appearance of %1$sUniversal Star "
+"Rating%2$s inside your posts."
+msgstr ""
+"Diese Einstellungen können das Verhalten und das Erscheinungsbild von "
+"%1$sUniversal Star Rating%2$s in deinen Beiträgen ändern."
+
+#: includes/templates/settings.content.settings.php:25
+msgid "Setting"
+msgstr "Einstellung"
+
+#: includes/templates/settings.content.settings.php:26
+msgid "Configured Value"
+msgstr "Eingestellter Wert"
+
+#: includes/templates/settings.content.settings.php:27
+msgid "Default Value"
+msgstr "Standardwert"
+
+#: includes/templates/settings.content.settings.php:30
+msgid "Image size (in pixel)"
+msgstr "Bildgröße (in Pixel)"
+
+#: includes/templates/settings.content.settings.php:35
+msgid "Max. star count (as integer)"
+msgstr "Max. Anzahl Sterne (als ganze Zahl)"
+
+#: includes/templates/settings.content.settings.php:37
+#, php-format
+msgid "5 %1$s(Minimum: 1)%2$s"
+msgstr "5 %1$s(Minimum: 1)%2$s"
+
+#: includes/templates/settings.content.settings.php:40
+msgid "Text output"
+msgstr "Textausgabe"
+
+#: includes/templates/settings.content.settings.php:43
+#: includes/templates/settings.content.settings.php:47
+#: includes/templates/settings.content.settings.php:54
+#: includes/templates/settings.content.settings.php:65
+#: includes/templates/settings.content.settings.php:75
+#: includes/templates/settings.content.settings.php:86
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: includes/templates/settings.content.settings.php:44
+#: includes/templates/settings.content.settings.php:55
+#: includes/templates/settings.content.settings.php:58
+#: includes/templates/settings.content.settings.php:66
+#: includes/templates/settings.content.settings.php:69
+#: includes/templates/settings.content.settings.php:76
+#: includes/templates/settings.content.settings.php:79
+#: includes/templates/settings.content.settings.php:87
+#: includes/templates/settings.content.settings.php:90
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: includes/templates/settings.content.settings.php:51
+msgid "Text output as tooltip"
+msgstr "Textausgabe als Tooltip"
+
+#: includes/templates/settings.content.settings.php:62
+msgid "Calculate average (for multi ratings only)"
+msgstr "Durchschnitt berechnen (nur für Multi-Ratings)"
+
+#: includes/templates/settings.content.settings.php:72
+msgid "Allow shortcodes in comments"
+msgstr "Gestatte Shortcodes in Kommentaren"
+
+#: includes/templates/settings.content.settings.php:83
+#, php-format
+msgid "(causes %1$s errors!)"
+msgstr "(verursacht %1$s Fehler!)"
+
+#: includes/templates/settings.content.settings.php:94
+msgid "Schema.org rating type"
+msgstr "Schema.org Rating-Typ"
+
+#: includes/templates/settings.content.settings.php:105
+msgid "Folder for self made images"
+msgstr "Ordner für selbst erstellte Bilder"
+
+#: includes/templates/settings.content.settings.php:110
+msgid "Image"
+msgstr "Bild"
+
+#: includes/templates/settings.content.settings.php:118
+msgid "Save Changes"
+msgstr "Änderungen Übernehmen"
+
+#: includes/templates/settings.content.settings.php:119
+msgid "Reset Settings"
+msgstr "Einstellungen Zurücksetzen"
+
+#: includes/templates/settings.footer.php:16
+msgid "Donate"
+msgstr "Spenden"
+
+#: includes/templates/settings.footer.php:18
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/templates/settings.footer.php:20
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: includes/templates/settings.footer.php:22
+msgid "Support"
+msgstr "Unterstützung"
+
+#: includes/templates/settings.footer.php:24
+msgid "Plugin Version"
+msgstr "Plugin Version"
+
+#: includes/templates/settings.headline.php:27
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/templates/settings.headline.php:28
+msgid "Preview / Examples"
+msgstr "Vorschau / Beispiele"
+
+#: includes/templates/settings.update.php:51
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: includes/templates/settings.update.php:67
+msgid "Settings reset to default."
+msgstr "Einstellungen zurückgesetzt."
+
+#~ msgid "Custom images folder (to place custom user images inside)"
+#~ msgstr "Ordner für benutzerspezifische Bilder"
+
+#~ msgid "Examples"
+#~ msgstr "Beispiele"
+
+#~ msgid "Save"
+#~ msgstr "Speichern"
+
+#~ msgid "Reset"
+#~ msgstr "Zurücksetzen"
+
+#~ msgid "Allow %1$s %2$s"
+#~ msgstr "Erlaube %1$s %2$s"
